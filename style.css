@@ -24,3 +24,9 @@
     position: absolute;
     /* centers logo in the nav bar */
 }
+.header {
+    background: #f5f6fc;
+}
+.navbar {
+    /* padding: 0 35px !important; */
+}
