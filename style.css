@@ -95,3 +95,10 @@
     right: -10px;
     z-index: -1;
 }
+.trending-img {
+    position: relative;
+    margin-bottom: 15px;
+}
+.trending-img img {
+    width: 100%;
+}
