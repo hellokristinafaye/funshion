@@ -219,10 +219,15 @@
     margin-top: 150px;
     background: #f5f6fc; 
 }
-.payment {
+.payment, .insta-img  {
     margin: 50px auto;
 }
 .payment img {
     width: 300px;
+    cursor: pointer;
+}
+.insta-img img {
+    width: 75px;
+    padding: 5px;
     cursor: pointer;
 }
