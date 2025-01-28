@@ -64,7 +64,8 @@
     margin: 80px 0;
 }
 .title-style h1 {
-    padding: 40px 0;
+    padding: 27px 0;
+    /* altered this from 40px in the tutorial. may have to change back later.  */
 }
 .title-style {
     margin: 0 auto 80px;
@@ -172,3 +173,8 @@
     margin-top: 150px;
 }
 /* the above rule makes the image a little lower, and it crosses over the background image.  I think that's the margins top and bottom. */
+
+/* -------fashion-blog-------- */
+.fashion-blog {
+    margin: 250px 0 150px 0;
+}
