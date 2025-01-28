@@ -214,3 +214,15 @@
     margin-top: 30px;
     font-weight: bold;
 }
+/* ------footer--------- */
+.footer {
+    margin-top: 150px;
+    background: #f5f6fc; 
+}
+.payment {
+    margin: 50px auto;
+}
+.payment img {
+    width: 300px;
+    cursor: pointer;
+}
