@@ -113,7 +113,9 @@
     left: 50%;
     bottom: 0;
     transform: translate(-50%, 0);
+    transition: 0.6s;
 }
-/* .trending-img img:hover .btn-buy {
-    transform: translate(-50%, 50);
-} */
+.trending-img:hover .btn-buy {
+    transform: translate(-50%, 50%);
+    bottom: 50%;
+}
