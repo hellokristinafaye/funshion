@@ -26,7 +26,32 @@
 }
 .header {
     background: #f5f6fc;
+    margin-bottom: 80px;
 }
 .navbar {
     /* padding: 0 35px !important; */
+}
+
+.banner-img {
+    margin: 80px 115px;
+    width: 60%;
+}
+.banner-img img {
+    width: 100%;
+    margin-bottom: -80px;
+}
+.banner {
+    position: relative;
+}
+.banner-title {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+}
+.banner-title h1 {
+    font-size: 55px;
+    background: rgba(0,0,0,.75);
+    color: #fff;
+    line-height: 70px;
+    padding: 10px 10px 0 10px;
 }
