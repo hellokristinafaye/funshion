@@ -85,3 +85,13 @@
     left: -10px;
     z-index: -1;
 }
+.title-style::before {
+    content: '';
+    height: 100px;
+    width: 200px;
+    background-color: #f992a6;
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+    z-index: -1;
+}
