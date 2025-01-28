@@ -102,3 +102,18 @@
 .trending-img img {
     width: 100%;
 }
+.btn-buy {
+    width: 150px;
+    padding: 10px 0;
+    outline: none !important;
+    border: 0;
+    border-radius: 2px;
+    position: absolute;
+    background: #fff;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 0);
+}
+/* .trending-img img:hover .btn-buy {
+    transform: translate(-50%, 50);
+} */
