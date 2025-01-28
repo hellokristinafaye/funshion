@@ -210,3 +210,7 @@
     margin: 50px auto;
 }
 /* the above two rules create a cool circle button with the logo. very cool use of the box shadow and border radius */
+.fashion-brands p {
+    margin-top: 30px;
+    font-weight: bold;
+}
