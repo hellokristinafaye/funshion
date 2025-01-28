@@ -156,3 +156,12 @@
     margin-bottom: 20px;
 }
 /* the above rule styles the Funshion Exclusive text box */
+.subscribe a {
+    width: 125px;
+    display: block;
+    color: #fff !important;
+    background: #000;
+    text-decoration: none !important;
+    padding: 5px;
+    text-align: center;
+}
