@@ -219,7 +219,7 @@
     margin-top: 150px;
     background: #f5f6fc; 
 }
-.payment, .insta-img  {
+.payment, .insta-img, .app-download  {
     margin: 50px auto;
 }
 .payment img {
@@ -230,4 +230,7 @@
     width: 75px;
     padding: 5px;
     cursor: pointer;
+}
+.app-download img {
+    width: 200px;
 }
