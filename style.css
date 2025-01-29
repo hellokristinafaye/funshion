@@ -233,6 +233,7 @@
 }
 .app-download img {
     width: 200px;
+    cursor: pointer;
 }
 .footer h5{
     margin-bottom: 50px;
@@ -251,7 +252,7 @@
 .footer-icons {
     text-align: right;
 }
-.footer-icons .fa {
+.footer-icons .fa-brands {
     margin: 0 10px auto;
     font-size: 20px;
     cursor:pointer;
