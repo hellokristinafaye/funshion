@@ -234,3 +234,16 @@
 .app-download img {
     width: 200px;
 }
+.footer h5{
+    margin-bottom: 50px;
+}
+.footer h5::before 
+{
+    content:'';
+    width: 70px;
+    height: 3px;
+    background: #4f74e8;
+    top: 80px;
+    position: absolute;
+}
+/* dang, I can't get this rule to work?? It should yield a small blue line, 70px long, under these headings but no matter what I alter in here it doesn't show up?? Might be a screen scaling issue. */
