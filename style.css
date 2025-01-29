@@ -247,3 +247,13 @@
     position: absolute;
 }
 /* dang, I can't get this rule to work?? It should yield a small blue line, 70px long, under these headings but no matter what I alter in here it doesn't show up?? Might be a screen scaling issue. */
+
+.footer-icons {
+    text-align: right;
+}
+.footer-icons .fa {
+    margin: 0 10px auto;
+    font-size: 20px;
+    cursor:pointer;
+}
+/* ok WOW you just went on a lil wild goose chase troubleshooting when you just missed ONE dot before .fa-brands */
